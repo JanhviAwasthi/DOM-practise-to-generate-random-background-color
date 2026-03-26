@@ -7,7 +7,7 @@ A simple and interactive web project that allows users to dynamically change the
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the project](http://127.0.0.1:5500/index.html)
+🔗 [Click here to view the project](https://janhviawasthi.github.io/DOM-practise-to-generate-random-background-color/)
 
 > ⚠️ Note: This link works only on your local machine. To make it accessible online, deploy using GitHub Pages or Netlify.
 
